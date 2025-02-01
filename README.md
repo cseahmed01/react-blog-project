@@ -90,9 +90,6 @@ If your project is using multiple services (e.g., backend with a database), you 
    - Ensure you have the latest version of Docker installed.
    - Rebuild the Docker image if you encounter build errors: `docker build -t react-blog-app .`
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
